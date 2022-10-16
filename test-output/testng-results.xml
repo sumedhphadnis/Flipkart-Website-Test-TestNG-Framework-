@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-16T18:48:45 IST" name="Suite" finished-at="2022-10-16T18:56:59 IST" duration-ms="494480">
+    <groups>
+    </groups>
+    <test started-at="2022-10-16T18:48:45 IST" name="Test1" finished-at="2022-10-16T18:56:59 IST" duration-ms="494480">
+      <class name="LoginMyProfileTextverification">
+        <test-method is-config="true" signature="simultaneouslaunchbrowser()[pri:0, instance:LoginMyProfileTextverification@47d9a273]" started-at="2022-10-16T18:54:46 IST" name="simultaneouslaunchbrowser" finished-at="2022-10-16T18:55:36 IST" duration-ms="49448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simultaneouslaunchbrowser -->
+        <test-method signature="textverification()[pri:0, instance:LoginMyProfileTextverification@47d9a273]" started-at="2022-10-16T18:55:36 IST" name="textverification" finished-at="2022-10-16T18:55:42 IST" duration-ms="6164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textverification -->
+      </class> <!-- LoginMyProfileTextverification -->
+      <class name="Loginmoduledropelementsclickability">
+        <test-method is-config="true" signature="simultaneouslaunchbrowser()[pri:0, instance:Loginmoduledropelementsclickability@54a7079e]" started-at="2022-10-16T18:52:40 IST" name="simultaneouslaunchbrowser" finished-at="2022-10-16T18:53:34 IST" duration-ms="53443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simultaneouslaunchbrowser -->
+        <test-method signature="logindropelementsclickability()[pri:0, instance:Loginmoduledropelementsclickability@54a7079e]" started-at="2022-10-16T18:53:34 IST" name="logindropelementsclickability" finished-at="2022-10-16T18:53:37 IST" duration-ms="3434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logindropelementsclickability -->
+      </class> <!-- Loginmoduledropelementsclickability -->
+      <class name="MainPagefooterlinksvalidity">
+        <test-method is-config="true" signature="simultaneouslaunchbrowser()[pri:0, instance:MainPagefooterlinksvalidity@4310d43]" started-at="2022-10-16T18:51:39 IST" name="simultaneouslaunchbrowser" finished-at="2022-10-16T18:52:30 IST" duration-ms="51282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simultaneouslaunchbrowser -->
+        <test-method signature="FooterLinksvalidity()[pri:0, instance:MainPagefooterlinksvalidity@4310d43]" started-at="2022-10-16T18:52:30 IST" name="FooterLinksvalidity" finished-at="2022-10-16T18:52:40 IST" duration-ms="10153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FooterLinksvalidity -->
+      </class> <!-- MainPagefooterlinksvalidity -->
+      <class name="addtocartfunction">
+        <test-method is-config="true" signature="simultaneouslaunchbrowser()[pri:0, instance:addtocartfunction@4b8ee4de]" started-at="2022-10-16T18:55:42 IST" name="simultaneouslaunchbrowser" finished-at="2022-10-16T18:56:32 IST" duration-ms="49720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simultaneouslaunchbrowser -->
+        <test-method signature="Addtocart()[pri:0, instance:addtocartfunction@4b8ee4de]" started-at="2022-10-16T18:56:32 IST" name="Addtocart" finished-at="2022-10-16T18:56:59 IST" duration-ms="27656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addtocart -->
+      </class> <!-- addtocartfunction -->
+      <class name="cartbuttonclickability">
+        <test-method is-config="true" signature="simultaneouslaunchbrowser()[pri:0, instance:cartbuttonclickability@61001b64]" started-at="2022-10-16T18:50:27 IST" name="simultaneouslaunchbrowser" finished-at="2022-10-16T18:51:36 IST" duration-ms="68437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simultaneouslaunchbrowser -->
+        <test-method signature="CartbuttonClickability()[pri:0, instance:cartbuttonclickability@61001b64]" started-at="2022-10-16T18:51:36 IST" name="CartbuttonClickability" finished-at="2022-10-16T18:51:39 IST" duration-ms="3103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartbuttonClickability -->
+      </class> <!-- cartbuttonclickability -->
+      <class name="Moredropmoduletextverificationandclickability">
+        <test-method is-config="true" signature="simultaneouslaunchbrowser()[pri:0, instance:Moredropmoduletextverificationandclickability@26e356f0]" started-at="2022-10-16T18:53:37 IST" name="simultaneouslaunchbrowser" finished-at="2022-10-16T18:54:27 IST" duration-ms="50270" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simultaneouslaunchbrowser -->
+        <test-method signature="textverification()[pri:0, instance:Moredropmoduletextverificationandclickability@26e356f0]" started-at="2022-10-16T18:54:27 IST" name="textverification" finished-at="2022-10-16T18:54:46 IST" duration-ms="18996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textverification -->
+      </class> <!-- Moredropmoduletextverificationandclickability -->
+      <class name="Becomeasellermoduleelementsclickability_Top">
+        <test-method is-config="true" signature="simultaneouslaunchbrowser()[pri:0, instance:Becomeasellermoduleelementsclickability_Top@543588e6]" started-at="2022-10-16T18:48:45 IST" name="simultaneouslaunchbrowser" finished-at="2022-10-16T18:48:58 IST" duration-ms="13197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simultaneouslaunchbrowser -->
+        <test-method signature="buttonclickability()[pri:0, instance:Becomeasellermoduleelementsclickability_Top@543588e6]" started-at="2022-10-16T18:48:58 IST" name="buttonclickability" finished-at="2022-10-16T18:50:27 IST" duration-ms="89014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buttonclickability -->
+      </class> <!-- Becomeasellermoduleelementsclickability_Top -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
